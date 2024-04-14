@@ -8,7 +8,7 @@
   
 ###
 
-<div align="center">
+<div style="display: inline_block"><br>
   <a href="https://github.com/DouglinhasFerreira">
     <img align="center" src="file:///C:/Users/dougl/Downloads/Design%20sem%20nome.gif" width="500">
   </a>
