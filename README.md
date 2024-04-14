@@ -1,4 +1,7 @@
-### Opa! Bem-vindo, Eu sou o Douglas Ferreira! 😍
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=50&pause=1000&random=false&width=1000&height=75&lines=Seja+Bem-Vindo%2C+Me+Chamo+Douglas)](https://git.io/typing-svg)
+
+###
 
 - 🌱 Atualmente Estudando: Mentoria SuperDesenvolvedor
 - 💬 Pergunte-me sobre: Porque fez transição de carreira?
@@ -10,7 +13,7 @@
 <br/>
 
 <a href="https://github.com/DouglinhasFerreira" title="Perfil do Douglas">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DouglinhasFerreira&theme=github_dark&show_icons=true" />
+  <img height="200cm" src="https://github-readme-stats.vercel.app/api?username=DouglinhasFerreira&theme=github_dark&show_icons=true" />
 </a>
 
 ###
