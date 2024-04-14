@@ -7,24 +7,11 @@
 
 ### ⚙️ GitHub Analytics
 
-<table>
-  <tr>
-    <td>
-      <img
-        align="left"
-        src="https://github-readme-stats.vercel.app/api?username=DouglinhasFerreira&theme=midnight-purple&hide_border=false&include_all_commits=true"
-        alt="Github Stats"
-      />
-      <br />
-      <img
-        align="left"
-        src="https://github-readme-streak-stats.herokuapp.com/?user=DouglinhasFerreira&theme=midnight-purple&hide_border=true"
-        alt="Github Stats"
-      />
-    </td>
-  </tr>
-</table>
+<br/>
 
+<a href="https://github.com/DouglinhasFerreira" title="Perfil do Douglas">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DouglinhasFerreira&theme=github_dark&show_icons=true" />
+</a>
 ###
 
 <div style="display: inline_block"><br>
