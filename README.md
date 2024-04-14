@@ -1,3 +1,4 @@
+<img allgn="center" width=100% src="https://capsule-render.vercel.app/api?type=waving&height=150&color=20BDFF"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=50&pause=1000&random=false&width=1000&height=75&lines=Seja+Bem-Vindo%2C+Me+Chamo+Douglas)](https://git.io/typing-svg)
 
