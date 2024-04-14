@@ -4,7 +4,8 @@
 - 💬 Pergunte-me sobre: Porque fez transição de carreira?
 - 📫 Contate-me no email: douglinhasprogdev@gmail.com
 - 🎃🦁 Pronouns: Ele/Dele
-- ⚡ Curiosidade: Desafios
+- ⚡ Curiosidade: Explorando novos conhecimentos na área de programação!
+- 
   
 ###
 
