@@ -10,7 +10,7 @@
 
 <div align="center">
   <a href="https://github.com/DouglinhasFerreira">
-    <img align="center" src="Welcome.gif" width="500">
+    <img align="center" src="file:///C:/Users/dougl/Downloads/Design%20sem%20nome.gif" width="500">
   </a>
 </div>
 
