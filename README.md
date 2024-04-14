@@ -23,5 +23,5 @@
 [![Linkedin](https://img.shields.io/badge/-DouglasFerreira-blue?style=flat-square&logo=Linkedin&logoColor=white&link=(https://www.linkedin.com/in/douglas-ferreira-898b172a7/))](https://www.linkedin.com/in/douglas-ferreira-898b172a7/)
 [![Gmail Badge](https://img.shields.io/badge/-douglinhasprogdev@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=red&link=mailto:[douglinhasprogdev@gmail.com](https://mail.google.com/mail/u/1/#inbox))](mailto:douglinhasprogdev@gmail.com)
 [![GitHub](https://img.shields.io/github/followers/DouglinhasFerreira?label=follow&style=social)](https://github.com/DouglinhasFerreira)
-[![Instagram](https://img.shields.io/instagram/followers/DouglinhasFerreira?label=follow&style=social)](https://instagram.com/dodozinffg)
+
 
