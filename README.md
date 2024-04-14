@@ -6,6 +6,12 @@
 - 🎃🦁 Pronouns: Ele/Dele
 - ⚡ Curiosidade: Desafios
 -->
+  
+<div>
+  <a href="hrrps://beacons.ai/DouglinhasFerreira">
+  <img height="180cm" src="https://github-readme-starts.vercel.app/api?username=DouglinhasFerreira&show_icons=true&theme=dracula&include_all_comits=true&count_private=true"/>
+</div>
+
 
 <div style="display: inline_block"><br>
   <img allgn="right" alt="Dodozin" src="https://cdn.discordapp.com/attachments/1229078372882055262/1229082916819042436/Untitled_Made_with_FlexClip.gif?ex=662e63aa&is=661beeaa&hm=b00ac04b9b4483c6e5642bb15b9b40e4e91ef4e705684ef8e09621f026e3a216&">
