@@ -25,10 +25,6 @@
   </tr>
 </table>
 
-
-
-
-  
 ###
 
 <div style="display: inline_block"><br>
