@@ -5,9 +5,9 @@
 ###
 
 - 🌱 Atualmente Estudando: Mentoria SuperDesenvolvedor
-- 💬 Pergunte-me sobre: Porque fez transição de carreira?
-- 🎃🦁 Pronouns: Ele/Dele
-- ⚡ Curiosidade: Transição de carreira para Programação ( Iniciante 💕) 
+- 💬 Pergunte-me sobre: Porque fez a transição de carreira?
+- 🦁 Pronouns: Ele/Dele
+- ⚡ Foco: Programação ( Iniciante 🖥️) 
 
 ### ⚙️ GitHub Analytics
 
