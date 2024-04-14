@@ -27,7 +27,7 @@
       <br />
       <img
         align="left"
-        src="https://github-readme-streak-stats.herokuapp.com/?user=DouglinhasFerreira&theme=midnight-purple&hide_border=false"
+        src="https://github-readme-streak-stats.herokuapp.com/?user=DouglinhasFerreira&theme=midnight-purple&hide_border=true"
         alt="Github Stats"
       />
     </td>
